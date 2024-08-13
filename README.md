@@ -1153,6 +1153,18 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: text (csv)
 * Reference: Anaïs Ollagnier, Elena Cabrio, Serena Villata, Catherine Blaya. CyberAgressionAdo-v1: a Dataset of Annotated Online Aggressions in French Collected through a Role-playing Game. Language Resources and Evaluation Conference, Jun 2022, Marseille, France. ⟨hal-03765860⟩
 
+* #### CyberAgressionAdo-v2
+* Link to publication: ([url](https://hal.science/hal-04514689)) - link to the documentation and/or a data statement about the data
+* Link to data: ([url](https://github.com/aollagnier/CyberAgressionAdo-V2.public)) - direct download is preferred, e.g. a link straight to a .zip file
+* Task description:  The CyberAgressionAdo-V2 dataset is an extended version of CyberAgressionAdo-V1, annotated using an updated tagset. The modifications to this tagset were made to enhance its usability in multi-party settings and to ensure comprehensive coverage of the communication goals associated with the various roles individuals assume in a bullying scenario. The revised tagset consists of six layers, two of which focus on pragmatic considerations, encompassing both intentions and context. These layers are designed to capture the authors' intentions and to establish the context in which messages are used as responses.
+* Details of task: This dataset allows to perform several online hate-related subtasks, including hate speech detection, bullying participant role detection, verbal abuse detection, and more. It also enables the evaluation of system capabilities in handling conversational data, as well as their ability to model information that addresses pragmatics-related considerations.
+* Size of dataset: 19 conversations
+* Language: French
+* Level of annotation: exchanged messages 
+* Platform: collected from role playing games mimicking cyberagression situations occuring on private instant messaging platforms.
+* Medium: text (csv)
+* Reference: Anaïs Ollagnier. CyberAgressionAdo-v2: Leveraging Pragmatic-Level Information to Decipher Online Hate in French Multiparty Chats. The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation, May 2024, Torino, Italy. ⟨hal-04514689⟩
+
 <a id="German-header"></a>
 ### German
 #### DeTox: A Comprehensive Dataset for German Offensive Language and Conversation Analysis
