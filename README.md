@@ -1141,17 +1141,29 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
 
-#### CyberAgressionAdo-v1
-* Link to publication: ([url](https://hal.science/hal-03765860)) - link to the documentation and/or a data statement about the data
-* Link to data: ([url](https://github.com/aollagnier/CyberAgressionAdo-v1)) - direct download is preferred, e.g. a link straight to a .zip file
-* Task description:  The collected conversations have been annotated using a fine-grained tagset including information related to the participant roles, the presence of hate speech, the type of verbal abuse present in the message, and whether utterances use different humour figurative devices (e.g., sarcasm or irony).
+#### CyberAgressionAdo-v2
+* Link to publication: ([url](https://hal.science/hal-04514689))
+* Link to data: ([url](https://github.com/aollagnier/CyberAgressionAdo-v1))
+* Task description: CyberAgressionAdo-V2 consists of aggressive multiparty chats in French annotated with a hierarchical tagset to describe bullying events, participant roles, hate speech, as well as discursive roles of messages (e.g., attack, defend, counterspeech) and the context in which they occur.
 * Details of task: This dataset allows to perform several subtasks related to the task of online hate detection in a conversational setting (hate speech detection, bullying participant role detection, verbal abuse detection, etc.)
 * Size of dataset: 19 conversations
 * Language: French
 * Level of annotation: exchanged messages 
 * Platform: collected from role playing games mimicking cyberagression situations occuring on private instant messaging platforms.
 * Medium: text (csv)
-* Reference: Anaïs Ollagnier, Elena Cabrio, Serena Villata, Catherine Blaya. CyberAgressionAdo-v1: a Dataset of Annotated Online Aggressions in French Collected through a Role-playing Game. Language Resources and Evaluation Conference, Jun 2022, Marseille, France. ⟨hal-03765860⟩
+* Reference: Anaïs Ollagnier: CyberAgressionAdo-v2: Leveraging Pragmatic-Level Information to Decipher Online Hate in French Multiparty Chats. LREC/COLING 2024: 4287-4298
+
+* #### CyberAgressionAdo-Large
+* Link to publication: ([url](https://hal.science/hal-04514689))
+* Link to data: ([[url](https://github.com/aollagnier/CyberAgression-Large))
+* Task description: CyberAgressionAdo-Large contains 36 scenarios including 11 about ethnicity, 9 about homophobia, 8 about obesity and 8 about religion. Messages are annotated using a fine-grained hierarchical annotation scheme. Moreover, this resource incorporates annotations contributed by three annotators, facilitating the adoption of computational methodologies aligned with the emerging perspectivist trend in machine learning. Each tab within every file corresponds to the annotations provided by an individual annotator.
+* Details of task: This dataset allows to perform several subtasks related to the task of online hate detection in a conversational setting (hate speech detection, bullying participant role detection, verbal abuse detection, etc.).
+* Size of dataset: 36 conversations
+* Language: French
+* Level of annotation: exchanged messages 
+* Platform: collected from role playing games mimicking cyberagression situations occuring on private instant messaging platforms.
+* Medium: text (csv)
+* Reference: Anaïs Ollagnier: CyberAgressionAdo-v2: Leveraging Pragmatic-Level Information to Decipher Online Hate in French Multiparty Chats. LREC/COLING 2024: 4287-4298
 
 <a id="German-header"></a>
 ### German
